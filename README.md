@@ -17,7 +17,7 @@ This project is a responsive registration form designed to provide an attractive
 This registration form can be used as a template for any website requiring user registration. You can customize the content, styling, and layout to suit your specific needs.
 
 ## Screenshots
-![Screenshot](Screenshots/Screenshot1.png)
+![Screenshot](Screenshot/Screenshot1.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
