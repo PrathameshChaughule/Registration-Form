@@ -12,12 +12,21 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background: url("image/bg1.png") no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .wrapper{
     width: 750px;
-    background-color: blue;
+    background: rgba(255, 255, 255, 0.1);
     border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 40px 35px 55px;
+    margin: 0 10px;
+    backdrop-filter: blur(5px);
+    box-shadow: rgba(0, 0, 0, 0.1);
 }
 
 .wrapper h1{
@@ -36,7 +45,7 @@ body{
 
 .box .field{
     position: relative;
-    width: 50%;
+    width: 48%;
     margin: 13px 0;
 }
 
@@ -80,11 +89,19 @@ body{
     cursor: pointer;
     letter-spacing: 2px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
 }
 
+.btn:hover{
+    transform: scale(1.02);
+}
 
-
-
+@media (max-width: 576px) {
+    .box .field {
+        width: 100%;
+        margin: 13px 0;
+    }
+}
 
 
 
