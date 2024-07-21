@@ -13,7 +13,10 @@ This project is a responsive registration form designed to provide an attractive
 - **CSS3:** Styling and layout, using Flexbox for card layout and media queries for responsiveness.
 - **Boxicons:** Icons for input fields.
 
-- ## Usage
+## Demo
+Check out the live demo of the project [here]()
+
+## Usage
 This registration form can be used as a template for any website requiring user registration. You can customize the content, styling, and layout to suit your specific needs.
 
 ## Screenshots
