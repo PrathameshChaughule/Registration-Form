@@ -14,7 +14,7 @@ This project is a responsive registration form designed to provide an attractive
 - **Boxicons:** Icons for input fields.
 
 ## Demo
-Check out the live demo of the project [here]()
+Check out the live demo of the project [here](https://prathameshchaughule.github.io/Registration-Form/)
 
 ## Usage
 This registration form can be used as a template for any website requiring user registration. You can customize the content, styling, and layout to suit your specific needs.
